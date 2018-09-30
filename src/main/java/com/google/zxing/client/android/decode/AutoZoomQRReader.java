@@ -28,7 +28,6 @@ import java.util.Map;
 /**
  * QR解码器，扫描过程中可以根据二维码大小自动缩放镜头
  *
- * @author wuzhou357602616@gmail.com (wuzhou)
  * @see com.google.zxing.qrcode.QRCodeReader
  */
 public class AutoZoomQRReader implements Reader {
